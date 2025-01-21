@@ -5,6 +5,7 @@
 [![codecov](https://codecov.io/gh/FISCO-BCOS/FISCO-BCOS/branch/master/graph/badge.svg)](https://codecov.io/gh/FISCO-BCOS/FISCO-BCOS)
 [![CodeFactor](https://www.codefactor.io/repository/github/fisco-bcos/FISCO-BCOS/badge)](https://www.codefactor.io/repository/github/fisco-bcos/FISCO-BCOS)
 [![GitHub All Releases](https://img.shields.io/github/downloads/FISCO-BCOS/FISCO-BCOS/total.svg)](https://github.com/FISCO-BCOS/FISCO-BCOS)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftjujingzong%2FFISCO-BCOS.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftjujingzong%2FFISCO-BCOS?ref=badge_shield)
 
 FISCO BCOS（读作/ˈfɪskl bi:ˈkɒz/） 是一个稳定、高效、安全的区块链底层平台，由微众银行牵头的金链盟主导研发，其可用性经广泛应用实践检验。至今已涌现300+产业数字化标杆应用，覆盖金融、医疗、教育、文化、社会治理等领域，如珠三角征信链、区块链服务网络BSN、人民链、国家健康医疗大数据科创平台、粤澳健康码跨境互认系统等。
 
@@ -107,3 +108,6 @@ BCOS MVP， 发展了12个专项兴趣小组SIG，此外与上百所知名院校
 ## License
 
 FISCO BCOS的开源协议为Apache License 2.0, 详情参见[LICENSE](LICENSE)。
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftjujingzong%2FFISCO-BCOS.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftjujingzong%2FFISCO-BCOS?ref=badge_large)
